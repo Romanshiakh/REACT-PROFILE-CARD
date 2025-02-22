@@ -2,8 +2,8 @@
 
 This is a simple React application that displays a profile card for a React Developer, Abdul Rahman. The profile card is responsive and includes buttons for sending a message or saving contact information.
 
-## Features
-
+## Features 
+// Adding Soon...
 - Responsive design that adapts to different screen sizes
 - Profile card with a photo, name, and profession
 - Buttons for sending a message and saving contact information
